@@ -157,10 +157,10 @@ document.addEventListener("DOMContentLoaded", function(){
         let message = document.querySelector("#message").value
         console.log(mail, message)
         if (mail == ""){
-            alert("Zadajte mail")
+            alert("Contact us directly at: info@zct3.eu, thank you!")
         }
         else if(message == ""){
-            alert("Správa je prázdna")
+            alert("Contact us directly at: info@zct3.eu, thank you!")
         }
         else{
             try {
@@ -179,11 +179,11 @@ document.addEventListener("DOMContentLoaded", function(){
                 console.log(Edata.message)
                 document.querySelector("#email").value = ""
                 document.querySelector("#message").value = ""
-                alert("Správa sa odoslala")
+                alert("Contact us directly at: info@zct3.eu, thank you!")
             } catch (error) {
                 document.querySelector("#email").value = ""
                 document.querySelector("#message").value = ""
-                alert("Správa sa odoslala")
+                alert("Contact us directly at: info@zct3.eu, thank you!")
                 console.error('ERROR: ', error)
                 
 
