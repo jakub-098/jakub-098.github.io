@@ -1,2 +1,2 @@
-:HL["/jakub-098.github.io/_next/static/chunks/0ff645f606c7de23.css","style"]
-0:{"buildId":"Tu2Jvg99iw_NawXpMYqCc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/zct3/_next/static/chunks/0ff645f606c7de23.css","style"]
+0:{"buildId":"XziO_SEPJ-VAzngcUYV5r","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
